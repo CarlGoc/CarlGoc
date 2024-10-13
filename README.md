@@ -1,9 +1,8 @@
 <h1>Hi, I'm Carl! </h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Project/s:</h2>
 
-- <b Active Directory Home Lab (In Progress atm) </b>
-  - 
+<b> [Active Directory Home Lab](https://github.com/CarlGoc/ActiveDirectoryLab) </b>
 
 <h2>📄 Certifications</h2>
 
