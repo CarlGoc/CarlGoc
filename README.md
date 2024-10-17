@@ -1,8 +1,9 @@
 <h1>Hi, I'm Carl! </h1>
 
-<h2>👨‍💻 Cybersecurity Project/s:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 <b> [Active Directory Home Lab](https://github.com/CarlGoc/ActiveDirectoryLab) </b>
+<b> [SIEM Tutorial using Microsoft Azure Sentinel (Honeypot + Live Attacks)](https://github.com/CarlGoc/Azure-Sentinel-SIEM-Guide-Live-Attacks) </b>
 
 <h2>📄 Certifications</h2>
 
