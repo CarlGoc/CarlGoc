@@ -10,7 +10,7 @@
 - Google IT Support Professional
 - Qualys Vulnerability Management
 - Google Cybersecurity Professional
-- CompTIA Security+ (To be expected by 2024)
+- CompTIA Security+ (Anticipated by 2025)
 
 
 <h2> 🤳 Connect with me:</h2>
@@ -18,5 +18,3 @@
 [<img align="left" alt="CarlGenverGoc | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://linkedin.com/in/carlgoc
-
-<!--
